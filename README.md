@@ -2,6 +2,10 @@
 
 A NestJS-based recruitment management system built with TypeScript, Prisma, and AdminJS.
 
+⚠️ Currently in development.
+
+---
+
 ## Description
 
 This is a recruitment management application built with the [NestJS](https://github.com/nestjs/nest) framework. It provides a robust backend API with an admin interface for managing recruitment processes.
